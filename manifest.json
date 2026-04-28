@@ -1,0 +1,30 @@
+{
+  "name": "SJA DIPS Duty Scraper (NER)",
+  "description": "Scrape DIPS duty listings by region, county or network",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite",
+    "tabs"
+  ],
+
+  "host_permissions": [
+    "https://dips.sja.org.uk/NER/*"
+  ],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://dips.sja.org.uk/NER/DutySystem-List.asp*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}

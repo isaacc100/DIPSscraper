@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      width: 280px;
+      padding: 10px;
+    }
+    button {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 6px;
+    }
+    .secondary {
+      background: #eee;
+    }
+    pre {
+      font-size: 11px;
+      max-height: 160px;
+      overflow: auto;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+
+  <button id="openRegional">Open Regional Listing</button>
+  <button id="openCounty" class="secondary">Open County Listing</button>
+  <button id="openNetwork" class="secondary">Open Network Listing</button>
+
+  <hr>
+
+  <button id="scrapeBtn">Scrape Current Listing</button>
+
+  <pre id="status"></pre>
+
+<script src="popup.js"></script>
+</body>
+</html>
