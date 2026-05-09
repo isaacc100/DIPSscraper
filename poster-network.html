@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>County Event Update</title>
+  <title>Network Event Update</title>
   <link rel="stylesheet" href="poster-theme.css">
 </head>
-<body class="poster-county">
+<body class="poster-network">
   <div class="page">
     <section class="poster-shell">
       <div class="shell-bg"></div>
@@ -14,8 +14,8 @@
       <div class="shell-text shell-title" id="titleLine">Bi-Weekly Event Update</div>
       <div class="shell-text shell-year" id="heroYear">2026</div>
       <div class="shell-text shell-weeks" id="heroWeeks">Weeks -- &amp; --</div>
-      <div class="shell-text shell-subtitle-line-1" id="subtitleLine1">All events in the county that need staffing for the next 2 weeks are listed below.</div>
-      <div class="shell-text shell-subtitle-line-2" id="subtitleLine2">Please contact your Cadet Group Lead or Isaac Critchley to be booked on. Look to staff local events first.</div>
+      <div class="shell-text shell-subtitle-line-1" id="subtitleLine1">All events across the network that need staffing for the next 2 weeks are listed below.</div>
+      <div class="shell-text shell-subtitle-line-2" id="subtitleLine2">Prioritise nearby cover first, then support wider network demand where you can.</div>
       <div class="shell-text shell-head shell-head-date">Date &amp; Time</div>
       <div class="shell-text shell-head shell-head-event">Event Name</div>
       <div class="shell-text shell-head shell-head-location">Location</div>
@@ -24,7 +24,7 @@
       <div class="shell-text shell-head shell-head-remaining">Remaining</div>
       <div class="shell-text shell-head shell-head-requirement">Requirement</div>
       <div class="shell-footer-left" id="footerLeft">Produced for Bradford Community Network Youth</div>
-      <div class="shell-footer-right" id="footerRight">by Isaac Critchley (isaac.critchley@sja.org.uk)</div>
+      <div class="shell-footer-right" id="footerRight">Network staffing view from DIPS</div>
       <div class="shell-source">Data Source:</div>
       <div class="shell-source-value" id="sourceLabelShell">DIPS</div>
       <div class="shell-release">Release Date:</div>
@@ -45,26 +45,10 @@
 
     <main>
       <section class="summary-grid" aria-label="Summary">
-        <article class="summary-card">
-          <div class="summary-label">Events listed</div>
-          <div class="summary-value" id="summaryEvents">0</div>
-          <div class="summary-subvalue" id="summaryRange">No date range</div>
-        </article>
-        <article class="summary-card">
-          <div class="summary-label">Total remaining</div>
-          <div class="summary-value" id="summaryRemaining">0</div>
-          <div class="summary-subvalue">Across all requested roles</div>
-        </article>
-        <article class="summary-card">
-          <div class="summary-label">High-priority events</div>
-          <div class="summary-value" id="summaryHighPriority">0</div>
-          <div class="summary-subvalue">Events with 6+ outstanding places</div>
-        </article>
-        <article class="summary-card">
-          <div class="summary-label">Busiest role</div>
-          <div class="summary-value" id="summaryTopRole">--</div>
-          <div class="summary-subvalue" id="summaryTopRoleCount">No requirement data</div>
-        </article>
+        <article class="summary-card"><div class="summary-label">Events listed</div><div class="summary-value" id="summaryEvents">0</div><div class="summary-subvalue" id="summaryRange">No date range</div></article>
+        <article class="summary-card"><div class="summary-label">Total remaining</div><div class="summary-value" id="summaryRemaining">0</div><div class="summary-subvalue">Across all requested roles</div></article>
+        <article class="summary-card"><div class="summary-label">High-priority events</div><div class="summary-value" id="summaryHighPriority">0</div><div class="summary-subvalue">Events with 6+ outstanding places</div></article>
+        <article class="summary-card"><div class="summary-label">Busiest role</div><div class="summary-value" id="summaryTopRole">--</div><div class="summary-subvalue" id="summaryTopRoleCount">No requirement data</div></article>
       </section>
 
       <section>
@@ -74,16 +58,13 @@
             <p>Sorted by date, then start time. Requirement totals are shown from the scraped listing.</p>
           </div>
         </div>
-
         <div id="tableHost"></div>
       </section>
 
       <section class="notes">
         <article class="note-panel">
           <h3>Booking notes</h3>
-          <p id="bookingNotes">
-            Please contact your Cadet Group Lead or Isaac Critchley to be booked on. Look to staff local events first.
-          </p>
+          <p id="bookingNotes">Coordinate through your local lead first, then support wider network demand where cover is still outstanding.</p>
         </article>
         <article class="note-panel">
           <h3>Top requirements</h3>
@@ -91,6 +72,7 @@
         </article>
       </section>
     </main>
+
   </div>
 
   <script src="poster.js"></script>

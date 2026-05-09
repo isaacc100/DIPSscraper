@@ -1,0 +1,1722 @@
+[
+  {
+    "date": "Wednesday - 01 April 2026",
+    "ref": "SJA/1014769",
+    "eventName": "Community AwarenessManor Road, Washington, Tyne and Wear NE37 3BL",
+    "location": "REQ",
+    "start": "10:00",
+    "finish": "12:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Community AwarenessManor Road, Washington, Tyne and Wear NE37 3BL - REQ"
+  },
+  {
+    "date": "Wednesday - 01 April 2026",
+    "ref": "SJA/1018686",
+    "eventName": "Emergency First Aid Demonstration and TalkThe Angle Inn, Main Street , Corbridge, Whitley Bay NE45 5LA",
+    "location": "REQ",
+    "start": "10:00",
+    "finish": "12:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Emergency First Aid Demonstration and TalkThe Angle Inn, Main Street , Corbridge, Whitley Bay NE45 5LA - REQ"
+  },
+  {
+    "date": "Thursday - 02 April 2026",
+    "ref": "SJA/1011241",
+    "eventName": "NSYC Easter Egg Trail & Hook a Duck - NER041Sandall Park, Wheatley, Doncaster, South Yorkshire DN5 2DZ",
+    "location": "REQ",
+    "start": "11:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYC Easter Egg Trail & Hook a Duck - NER041Sandall Park, Wheatley, Doncaster, South Yorkshire DN5 2DZ - REQ"
+  },
+  {
+    "date": "Thursday - 02 April 2026",
+    "ref": "SJA/1020318",
+    "eventName": "Beverley Races - Pre season tabletop exerciseBeverley Racecourse, York Road, Beverley, East Riding of Yorkshire HU17 8QZ",
+    "location": "REQ",
+    "start": "14:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Beverley Races - Pre season tabletop exerciseBeverley Racecourse, York Road, Beverley, East Riding of Yorkshire HU17 8QZ - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1018152",
+    "eventName": "NNYC Sutton Bank 50th Birthday Party - NER010Sutton Bank National Park Centre, Sutton Bank, Thirsk, North Yorkshire YO7 2EH",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNYC Sutton Bank 50th Birthday Party - NER010Sutton Bank National Park Centre, Sutton Bank, Thirsk, North Yorkshire YO7 2EH - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1020719",
+    "eventName": "SAL Event North York Moors Sutton bank Centre Open DayNorth York Moors Visitor Centre, Sutton Bank YO72EX",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "SAL Event North York Moors Sutton bank Centre Open DayNorth York Moors Visitor Centre, Sutton Bank YO72EX - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1014658",
+    "eventName": "NNDC South Shields Sunday School Good Friday Procession of Witness - NER020South Shields Old Town Hall, South Shields Market Place, South Shields.. NE33 1JF",
+    "location": "REQ",
+    "start": "09:45",
+    "finish": "10:45",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDC South Shields Sunday School Good Friday Procession of Witness - NER020South Shields Old Town Hall, South Shields Market Place, South Shields.. NE33 1JF - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1013503",
+    "eventName": "NEHM - Hull Kingston Rovers v Wakefield - NER109Sewell Group Craven Park, Poorhouse Lane, Hull HU9 5HE",
+    "location": "REQ",
+    "start": "10:30",
+    "finish": "14:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "5",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHM - Hull Kingston Rovers v Wakefield - NER109Sewell Group Craven Park, Poorhouse Lane, Hull HU9 5HE - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1014484",
+    "eventName": "NWYC Heptonstall Pace Egg - NER033Weaver Square, Heptonstall, West Yorkshire HX7 7NJ",
+    "location": "REQ",
+    "start": "11:00",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "1",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Heptonstall Pace Egg - NER033Weaver Square, Heptonstall, West Yorkshire HX7 7NJ - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1006790",
+    "eventName": "NSYM - Rotherham United v Stevenage - NER104New York Stadium, New York Way, Rotherham S60 1AH",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "4",
+      "FA": "0",
+      "CFA": "7",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM - Rotherham United v Stevenage - NER104New York Stadium, New York Way, Rotherham S60 1AH - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1006802",
+    "eventName": "NWYM - Bradford City v Northampton - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "10",
+      "AFA": "0",
+      "ER": "8",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Bradford City v Northampton - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY - REQ"
+  },
+  {
+    "date": "Friday - 03 April 2026",
+    "ref": "SJA/1007428",
+    "eventName": "NSYM Doncaster Rovers v Mansfield - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "8",
+      "FA": "11",
+      "CFA": "0",
+      "AFA": "1",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM Doncaster Rovers v Mansfield - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Sunday - 05 April 2026",
+    "ref": "SJA/1007747",
+    "eventName": "NNDM - North Tyneside 10k Road Race - NER135The Parks Leisure Centre, Howdon Road North Shields, Tynemouth, Tyne &.. NE29 6TL",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "13:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "6",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "4",
+      "HCP": "0",
+      "FATC": "1",
+      "AMB": "2"
+    },
+    "details": "NNDM - North Tyneside 10k Road Race - NER135The Parks Leisure Centre, Howdon Road North Shields, Tynemouth, Tyne &.. NE29 6TL - REQ"
+  },
+  {
+    "date": "Monday - 06 April 2026",
+    "ref": "SJA/1013887-M",
+    "eventName": "NWYS Gawthorpe World Coal Carrying Championships - NER034Gawthorpe Village, High Street, Gawthorpe, Ossett, West Yorkshire WF5 9QS",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "16:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "3",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYS Gawthorpe World Coal Carrying Championships - NER034Gawthorpe Village, High Street, Gawthorpe, Ossett, West Yorkshire WF5 9QS - REQ"
+  },
+  {
+    "date": "Monday - 06 April 2026",
+    "ref": "SJA/1019349",
+    "eventName": "NWYS Rotary Club of Hebden Bridge Duck Race - NER033Hebden Bridge Town Centre, St George's Square and Surrounding Streets,.. HX7 8ET",
+    "location": "REQ",
+    "start": "12:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "1",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYS Rotary Club of Hebden Bridge Duck Race - NER033Hebden Bridge Town Centre, St George's Square and Surrounding Streets,.. HX7 8ET - REQ"
+  },
+  {
+    "date": "Monday - 06 April 2026",
+    "ref": "SJA/1012862",
+    "eventName": "NSYS Easter Monday Duck Race - NER040Endcliffe Park, Rustlings Road, Sheffield, South Yorkshire S11 7AB",
+    "location": "REQ",
+    "start": "13:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYS Easter Monday Duck Race - NER040Endcliffe Park, Rustlings Road, Sheffield, South Yorkshire S11 7AB - REQ"
+  },
+  {
+    "date": "Monday - 06 April 2026",
+    "ref": "SJA/1006677",
+    "eventName": "NEHM - Hull City Tigers v Coventry - NER102MKM Stadium, West Park, Walton St, Hull HU3 6HU",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "1",
+      "FA": "0",
+      "CFA": "12",
+      "AFA": "0",
+      "ER": "6",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHM - Hull City Tigers v Coventry - NER102MKM Stadium, West Park, Walton St, Hull HU3 6HU - REQ"
+  },
+  {
+    "date": "Tuesday - 07 April 2026",
+    "ref": "SJA/1012991",
+    "eventName": "Paediatric Demonstration and TalkBoldon Children's Centre, Reginald Street, Boldon Colliery, Whitley Ba.. NE35 9DG",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "11:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Paediatric Demonstration and TalkBoldon Children's Centre, Reginald Street, Boldon Colliery, Whitley Ba.. NE35 9DG - REQ"
+  },
+  {
+    "date": "Tuesday - 07 April 2026",
+    "ref": "SJA/1010353",
+    "eventName": "NWYM - Pontefract Races - NER108Pontefract Racecourse, Pontefract Park, Park Road, Pontefract WF8 4QD",
+    "location": "REQ",
+    "start": "12:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Pontefract Races - NER108Pontefract Racecourse, Pontefract Park, Park Road, Pontefract WF8 4QD - REQ"
+  },
+  {
+    "date": "Tuesday - 07 April 2026",
+    "ref": "SJA/1013286",
+    "eventName": "NNYC Thorntree Park Easter Fun - NER012Thorntree Park, Spencerfield Crescent, Thorntree, Middlesbrough, North.. TS3 9HR",
+    "location": "REQ",
+    "start": "12:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNYC Thorntree Park Easter Fun - NER012Thorntree Park, Spencerfield Crescent, Thorntree, Middlesbrough, North.. TS3 9HR - REQ"
+  },
+  {
+    "date": "Tuesday - 07 April 2026",
+    "ref": "SJA/1013050",
+    "eventName": "FA Talk @ Owston Scouts84C Owston Road, Carcroft, Doncaster DN4 8DS",
+    "location": "REQ",
+    "start": "17:30",
+    "finish": "21:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "FA Talk @ Owston Scouts84C Owston Road, Carcroft, Doncaster DN4 8DS - REQ"
+  },
+  {
+    "date": "Tuesday - 07 April 2026",
+    "ref": "SJA/1001696",
+    "eventName": "NNDS North Shields Poly Grand Prix Series - NER020The Links (Brierdene Car Park), Whitley Bay, Tyne and Wear NE26 1UE",
+    "location": "REQ",
+    "start": "18:30",
+    "finish": "20:15",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS North Shields Poly Grand Prix Series - NER020The Links (Brierdene Car Park), Whitley Bay, Tyne and Wear NE26 1UE - REQ"
+  },
+  {
+    "date": "Wednesday - 08 April 2026",
+    "ref": "SJA/1013283",
+    "eventName": "Bystanders CPR Demonstration and TalkKirkley Hall Campus, KIrkley, Newcsatle, Morpeth NE20 0AQ",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "15:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Bystanders CPR Demonstration and TalkKirkley Hall Campus, KIrkley, Newcsatle, Morpeth NE20 0AQ - REQ"
+  },
+  {
+    "date": "Wednesday - 08 April 2026",
+    "ref": "SJA/1021285",
+    "eventName": "Bystander to Lifesaver - Ossett WI presentationOssett Community Centre N/A",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "16:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Bystander to Lifesaver - Ossett WI presentationOssett Community Centre N/A - REQ"
+  },
+  {
+    "date": "Thursday - 09 April 2026",
+    "ref": "SJA/1013020",
+    "eventName": "Paediatric Demonstration and TalkBede Family Hub, Inverness Road, Jarrow, Whitley Bay NE32 4QA",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "11:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Paediatric Demonstration and TalkBede Family Hub, Inverness Road, Jarrow, Whitley Bay NE32 4QA - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1011481",
+    "eventName": "Hornsea Water Safety Event Children's Day - Community EngagementFloral Hall, Esplanade, Hornsea, East Riding of Yorkshire HU18 1NQ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Hornsea Water Safety Event Children's Day - Community EngagementFloral Hall, Esplanade, Hornsea, East Riding of Yorkshire HU18 1NQ - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1011237-M",
+    "eventName": "NEHC Water Safety Event - Childrens Day - NER052Floral Hall, Esplanade, Hornsea, East Yorkshire HU18 1NQ",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHC Water Safety Event - Childrens Day - NER052Floral Hall, Esplanade, Hornsea, East Yorkshire HU18 1NQ - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1013290",
+    "eventName": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1013022",
+    "eventName": "Paediatric Demonstration and TalkMarine Park Family Hub, Flagg Court, South Shields, Whitley Bay NE33 2LS",
+    "location": "REQ",
+    "start": "13:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Paediatric Demonstration and TalkMarine Park Family Hub, Flagg Court, South Shields, Whitley Bay NE33 2LS - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1020974",
+    "eventName": "SJA South Shields Cadets Ambulance Awareness42 Wawn St., Westoe, South Shields NE33 4EB",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "19:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "SJA South Shields Cadets Ambulance Awareness42 Wawn St., Westoe, South Shields NE33 4EB - REQ"
+  },
+  {
+    "date": "Friday - 10 April 2026",
+    "ref": "SJA/1016659",
+    "eventName": "NEHM - Speedway - NER111Eddie Wright Raceway, Normanby Road, Scunthorpe DN15 8QZ",
+    "location": "REQ",
+    "start": "19:00",
+    "finish": "22:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "3",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHM - Speedway - NER111Eddie Wright Raceway, Normanby Road, Scunthorpe DN15 8QZ - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1011218",
+    "eventName": "Capacity Warning North East (Grand National Weekend)North Region NE4 9PQ",
+    "location": "REQ",
+    "start": "06:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Capacity Warning North East (Grand National Weekend)North Region NE4 9PQ - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/853057",
+    "eventName": "NWYC Provincial Meeting Mark Master Masons - NER032Bradford Grammar School, Keighley Road, Castle Howard, Bradford BD9 4JP",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Provincial Meeting Mark Master Masons - NER032Bradford Grammar School, Keighley Road, Castle Howard, Bradford BD9 4JP - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1013301",
+    "eventName": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1018983",
+    "eventName": "NNDC 58th Morpeth Northumbrian Gathering - NER020Morpeth Town Hall, Market Place, Morpeth, Northumberland NE61 1LZ",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDC 58th Morpeth Northumbrian Gathering - NER020Morpeth Town Hall, Market Place, Morpeth, Northumberland NE61 1LZ - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1010451",
+    "eventName": "NNDS The Haris Simpson Charity Cup - NER021Red House Senior School Football Pitch, 36 The Green, Norton, Stockton.. TS20 1DX",
+    "location": "REQ",
+    "start": "11:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS The Haris Simpson Charity Cup - NER021Red House Senior School Football Pitch, 36 The Green, Norton, Stockton.. TS20 1DX - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1019908",
+    "eventName": "Emergency First Aid Demonstration and TalkThe Millennium Hall, Church Lane, Riding Mill, Gateshead NE44 6DR",
+    "location": "REQ",
+    "start": "11:30",
+    "finish": "14:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Emergency First Aid Demonstration and TalkThe Millennium Hall, Church Lane, Riding Mill, Gateshead NE44 6DR - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1020042",
+    "eventName": "NEHM - Hull Kingston Rovers v York Knights - NER109Craven Park, Poorhouse Lane, Hull HU9 5HE",
+    "location": "REQ",
+    "start": "11:30",
+    "finish": "15:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "5",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHM - Hull Kingston Rovers v York Knights - NER109Craven Park, Poorhouse Lane, Hull HU9 5HE - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1006791",
+    "eventName": "NSYM - Rotherham United v Barnsley - NER104New York Stadium, New York Way, Rotherham S60 1AH",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "4",
+      "FA": "0",
+      "CFA": "7",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM - Rotherham United v Barnsley - NER104New York Stadium, New York Way, Rotherham S60 1AH - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1006803",
+    "eventName": "NWYM - Bradford City v Stevenage - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "10",
+      "AFA": "0",
+      "ER": "8",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Bradford City v Stevenage - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY - REQ"
+  },
+  {
+    "date": "Saturday - 11 April 2026",
+    "ref": "SJA/1007429",
+    "eventName": "NSYM Doncaster Rovers v Reading - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "8",
+      "FA": "11",
+      "CFA": "0",
+      "AFA": "1",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM Doncaster Rovers v Reading - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Sunday - 12 April 2026",
+    "ref": "SJA/1011480",
+    "eventName": "Hornsea Water Safety Day - Emergency Services Day - Community EngagementFloral Hall, Esplanade, Hornsea, East Riding of Yorkshire HU18 1NQ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Hornsea Water Safety Day - Emergency Services Day - Community EngagementFloral Hall, Esplanade, Hornsea, East Riding of Yorkshire HU18 1NQ - REQ"
+  },
+  {
+    "date": "Sunday - 12 April 2026",
+    "ref": "SJA/1011273",
+    "eventName": "NEHC Water Safety Event - Emergency Services Day - NER052Floral Hall, Esplanade, Hornsea, East Yorkshire HU18 1NQ",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHC Water Safety Event - Emergency Services Day - NER052Floral Hall, Esplanade, Hornsea, East Yorkshire HU18 1NQ - REQ"
+  },
+  {
+    "date": "Sunday - 12 April 2026",
+    "ref": "SJA/1013300",
+    "eventName": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Monday - 13 April 2026",
+    "ref": "SJA/1013299",
+    "eventName": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Hampshire - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Monday - 13 April 2026",
+    "ref": "SJA/1018396",
+    "eventName": "NWYC Almoners Lunch - NER032 Cedar Court, Mayo Ave, Rooley Lane, Bradford, West Yorkshire BD5 8HW",
+    "location": "REQ",
+    "start": "11:30",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Almoners Lunch - NER032 Cedar Court, Mayo Ave, Rooley Lane, Bradford, West Yorkshire BD5 8HW - REQ"
+  },
+  {
+    "date": "Monday - 13 April 2026",
+    "ref": "SJA/1016676",
+    "eventName": "NNDS - NUFC U 21 s v Wolves - NER105Whitley Park, Whitley Road, Newcastle upon Tyne, Tyne and Wear NE12 9FA",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "21:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "2",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS - NUFC U 21 s v Wolves - NER105Whitley Park, Whitley Road, Newcastle upon Tyne, Tyne and Wear NE12 9FA - REQ"
+  },
+  {
+    "date": "Tuesday - 14 April 2026",
+    "ref": "SJA/1017402-M",
+    "eventName": "NWYC Children's Symposium - NER033The Barbara Hepworth Building - Huddersfield Uni, Queensgate Campus, H.. HD1 3DH",
+    "location": "REQ",
+    "start": "10:00",
+    "finish": "14:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Children's Symposium - NER033The Barbara Hepworth Building - Huddersfield Uni, Queensgate Campus, H.. HD1 3DH - REQ"
+  },
+  {
+    "date": "Wednesday - 15 April 2026",
+    "ref": "SJA/1017476",
+    "eventName": "NWYS Children's Symposium - NER033The Barbara Hepworth Building - Huddersfield Uni, Queensgate Campus, H.. HD1 3DH",
+    "location": "REQ",
+    "start": "10:00",
+    "finish": "14:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYS Children's Symposium - NER033The Barbara Hepworth Building - Huddersfield Uni, Queensgate Campus, H.. HD1 3DH - REQ"
+  },
+  {
+    "date": "Wednesday - 15 April 2026",
+    "ref": "SJA/1007507-M",
+    "eventName": "NEHM - Beverley Raceday - NER107The Racecourse, York Road, Beverley, East Yorkshire HU17 8QZ",
+    "location": "REQ",
+    "start": "10:30",
+    "finish": "18:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "3",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "1",
+      "AMB": "0"
+    },
+    "details": "NEHM - Beverley Raceday - NER107The Racecourse, York Road, Beverley, East Yorkshire HU17 8QZ - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1008857-M",
+    "eventName": "Capacity Warning NNY - Harrogate Flower Show 23-26/5North Region NE4 9PQ",
+    "location": "REQ",
+    "start": "06:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Capacity Warning NNY - Harrogate Flower Show 23-26/5North Region NE4 9PQ - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1012606",
+    "eventName": "NNYM - Harrogate Spring Flower Show - NER143Yorkshire Events Centre, Harrogate HG2 8NZ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "2",
+      "CREW": "2",
+      "HCP": "0",
+      "FATC": "1",
+      "AMB": "1"
+    },
+    "details": "NNYM - Harrogate Spring Flower Show - NER143Yorkshire Events Centre, Harrogate HG2 8NZ - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1010052",
+    "eventName": "NNDS - Living North Spring Fair North East - NER118Newcastle Racecourse, High Gosforth Park, Newcastle, Tyne and Wear NE3 5HP",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS - Living North Spring Fair North East - NER118Newcastle Racecourse, High Gosforth Park, Newcastle, Tyne and Wear NE3 5HP - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1013296",
+    "eventName": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1018984",
+    "eventName": "NWYC Marsden Cuckoo Festival - NER033Marsden Village, Peel Street, Marsden, West Yorkshire HD7 6BW",
+    "location": "REQ",
+    "start": "10:30",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Marsden Cuckoo Festival - NER033Marsden Village, Peel Street, Marsden, West Yorkshire HD7 6BW - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1007430",
+    "eventName": "NSYM Doncaster Rovers v Stevenage - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "11:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "8",
+      "FA": "11",
+      "CFA": "0",
+      "AFA": "1",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM Doncaster Rovers v Stevenage - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1020246",
+    "eventName": "NWYC St Georges Day - NER032Keighley Town Hall Square, Keighley, West Yorkshire BD21 3RZ",
+    "location": "REQ",
+    "start": "11:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC St Georges Day - NER032Keighley Town Hall Square, Keighley, West Yorkshire BD21 3RZ - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1020949",
+    "eventName": "NWYM - Leeds Rhinos Womens match - NER106AMT Headingley Stadium, St Michael's Lane, Leeds LS6 3BU",
+    "location": "REQ",
+    "start": "11:30",
+    "finish": "17:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Leeds Rhinos Womens match - NER106AMT Headingley Stadium, St Michael's Lane, Leeds LS6 3BU - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1006793",
+    "eventName": "NSYM - Rotherham United v Reading - NER104New York Stadium, New York Way, Rotherham S60 1AH",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "4",
+      "FA": "0",
+      "CFA": "7",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM - Rotherham United v Reading - NER104New York Stadium, New York Way, Rotherham S60 1AH - REQ"
+  },
+  {
+    "date": "Saturday - 25 April 2026",
+    "ref": "SJA/1006805",
+    "eventName": "NWYM - Bradford City v Bolton - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY",
+    "location": "REQ",
+    "start": "13:30",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "10",
+      "AFA": "0",
+      "ER": "8",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Bradford City v Bolton - NER101University of Bradford Stadium, Valley Parade, Bradford, West Yorkshir.. BD8 7DY - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1008858",
+    "eventName": "Capacity Warning NNY - Harrogate Flower Show 23-26/5North Region NE4 9PQ",
+    "location": "REQ",
+    "start": "06:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Capacity Warning NNY - Harrogate Flower Show 23-26/5North Region NE4 9PQ - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1010083",
+    "eventName": "Capacity Warning London MarathonNorth Region NE4 9PQ",
+    "location": "REQ",
+    "start": "06:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Capacity Warning London MarathonNorth Region NE4 9PQ - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1010319",
+    "eventName": "SWLL - TCS London Marathon - LON130Marathon House, 190 Great Dover Street SE1 4YB",
+    "location": "REQ",
+    "start": "08:00",
+    "finish": "00:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "SWLL - TCS London Marathon - LON130Marathon House, 190 Great Dover Street SE1 4YB - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1012337",
+    "eventName": "NWYC Royal Society of Saint George - NER030Morley Rugby Club, Scatcherd Lane, Morley, West Yorkshire LS27 0JJ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "16:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYC Royal Society of Saint George - NER030Morley Rugby Club, Scatcherd Lane, Morley, West Yorkshire LS27 0JJ - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1012471",
+    "eventName": "St George Festival Fundraiser and community EngagementMorley Rugby Club, Scatcherd Lane, Morley LS27 0JJ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "16:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "St George Festival Fundraiser and community EngagementMorley Rugby Club, Scatcherd Lane, Morley LS27 0JJ - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1012605",
+    "eventName": "NNYM - Harrogate Spring Flower Show - NER143Yorkshire Events Centre, Harrogate HG2 8NZ",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "2",
+      "CREW": "2",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "1"
+    },
+    "details": "NNYM - Harrogate Spring Flower Show - NER143Yorkshire Events Centre, Harrogate HG2 8NZ - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1010053",
+    "eventName": "NNDS - Living North Spring Fair North East - NER118Newcastle Racecourse, High Gosforth Park, Newcastle, Tyne and Wear NE3 5HP",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "16:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS - Living North Spring Fair North East - NER118Newcastle Racecourse, High Gosforth Park, Newcastle, Tyne and Wear NE3 5HP - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1013295",
+    "eventName": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1019686-M",
+    "eventName": "NSYC Crookes Street Market - NER040Stannington View Road, Crookes, Sheffield, S Yorkshire S10 1WL",
+    "location": "REQ",
+    "start": "11:00",
+    "finish": "15:00",
+    "resources": {
+      "CDT": "2",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "1",
+      "AMB": "0"
+    },
+    "details": "NSYC Crookes Street Market - NER040Stannington View Road, Crookes, Sheffield, S Yorkshire S10 1WL - REQ"
+  },
+  {
+    "date": "Sunday - 26 April 2026",
+    "ref": "SJA/1013137",
+    "eventName": "NSYM - Dons Rugby v London - NER125Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "14:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "2",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM - Dons Rugby v London - NER125Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Monday - 27 April 2026",
+    "ref": "SJA/1013294",
+    "eventName": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "18:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - YCC v Sussex - NER113Headingley Stadium, St Michael's Lane, Headingley, Leeds LS6 3BR - REQ"
+  },
+  {
+    "date": "Monday - 27 April 2026",
+    "ref": "SJA/1020630",
+    "eventName": "Emergency First Aid Demonstration and TalkST Gregory's RC Church, 99 Boro Road , South Shields NE34 6NR",
+    "location": "REQ",
+    "start": "09:30",
+    "finish": "11:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Emergency First Aid Demonstration and TalkST Gregory's RC Church, 99 Boro Road , South Shields NE34 6NR - REQ"
+  },
+  {
+    "date": "Monday - 27 April 2026",
+    "ref": "SJA/1021419",
+    "eventName": "SAL event - Whitby Whalers URC Flowergate, Whitby YO213AA",
+    "location": "REQ",
+    "start": "19:30",
+    "finish": "21:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "SAL event - Whitby Whalers URC Flowergate, Whitby YO213AA - REQ"
+  },
+  {
+    "date": "Tuesday - 28 April 2026",
+    "ref": "SJA/1018691",
+    "eventName": "Paediatric Demonstration and TalkColby Court, Newcastle , Corbridge, Whitley Bay NE4 6HL",
+    "location": "REQ",
+    "start": "09:00",
+    "finish": "10:45",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Paediatric Demonstration and TalkColby Court, Newcastle , Corbridge, Whitley Bay NE4 6HL - REQ"
+  },
+  {
+    "date": "Tuesday - 28 April 2026",
+    "ref": "SJA/1021554",
+    "eventName": "The Order of St John Award for Organ Donation CeremonyFriargate Quaker Meeting House, Lower Friargate, Clifford Street, York YO1 9RL",
+    "location": "REQ",
+    "start": "12:30",
+    "finish": "16:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "The Order of St John Award for Organ Donation CeremonyFriargate Quaker Meeting House, Lower Friargate, Clifford Street, York YO1 9RL - REQ"
+  },
+  {
+    "date": "Tuesday - 28 April 2026",
+    "ref": "SJA/1013051",
+    "eventName": "FA Talk @ 28th Doncaster Scout & CubsThe Scout Hall, Anchorage Lane, Sprotbrough DN5 8DT",
+    "location": "REQ",
+    "start": "17:30",
+    "finish": "21:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "FA Talk @ 28th Doncaster Scout & CubsThe Scout Hall, Anchorage Lane, Sprotbrough DN5 8DT - REQ"
+  },
+  {
+    "date": "Tuesday - 28 April 2026",
+    "ref": "SJA/1022470",
+    "eventName": "NSYM County Cup Final - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM County Cup Final - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Tuesday - 28 April 2026",
+    "ref": "SJA/1016958",
+    "eventName": "Riccall: First Aid Village - Group 3, Session 2Regen Centre, Landing Lane, Riccall, York YO19 6PW",
+    "location": "REQ",
+    "start": "18:30",
+    "finish": "21:45",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Riccall: First Aid Village - Group 3, Session 2Regen Centre, Landing Lane, Riccall, York YO19 6PW - REQ"
+  },
+  {
+    "date": "Wednesday - 29 April 2026",
+    "ref": "SJA/1010357",
+    "eventName": "NWYM - Pontefract Races - NER108Pontefract Racecourse, Pontefract Park, Park Road, Pontefract WF8 4QD",
+    "location": "REQ",
+    "start": "12:00",
+    "finish": "17:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Pontefract Races - NER108Pontefract Racecourse, Pontefract Park, Park Road, Pontefract WF8 4QD - REQ"
+  },
+  {
+    "date": "Wednesday - 29 April 2026",
+    "ref": "SJA/1010803",
+    "eventName": "NWYM - Varsity - NER106AMT Headingley Stadium, St Michael's Lane, Leeds LS6 3BU",
+    "location": "REQ",
+    "start": "16:00",
+    "finish": "21:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "10",
+      "AFA": "0",
+      "ER": "10",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NWYM - Varsity - NER106AMT Headingley Stadium, St Michael's Lane, Leeds LS6 3BU - REQ"
+  },
+  {
+    "date": "Wednesday - 29 April 2026",
+    "ref": "SJA/1017866-M",
+    "eventName": "NNDS NECAA - NEGP 1 - NER023Monkton Stadium, Dene Terrace, Jarrow, Tyne & Wear NE32 5NJ",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "21:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "1",
+      "AFA": "0",
+      "ER": "1",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NNDS NECAA - NEGP 1 - NER023Monkton Stadium, Dene Terrace, Jarrow, Tyne & Wear NE32 5NJ - REQ"
+  },
+  {
+    "date": "Wednesday - 29 April 2026",
+    "ref": "SJA/1022471",
+    "eventName": "NSYM Womens County Cup Final - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NSYM Womens County Cup Final - NER103Eco Power Stadium, Stadium Way, Doncaster, South Yorkshire DN4 5JW - REQ"
+  },
+  {
+    "date": "Wednesday - 29 April 2026",
+    "ref": "SJA/1018755",
+    "eventName": "NEHS Tower Spring 2026 - NER050Hull University Student Union, Student Central, University of Hull HU6 7RX",
+    "location": "REQ",
+    "start": "22:30",
+    "finish": "03:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "2",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHS Tower Spring 2026 - NER050Hull University Student Union, Student Central, University of Hull HU6 7RX - REQ"
+  },
+  {
+    "date": "Thursday - 30 April 2026",
+    "ref": "SJA/1021266",
+    "eventName": "Community Engagement in a sheltered complexRosewood Court, Park Avenue, Roundhay, Leeds LS8 2BL",
+    "location": "REQ",
+    "start": "13:00",
+    "finish": "14:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "Community Engagement in a sheltered complexRosewood Court, Park Avenue, Roundhay, Leeds LS8 2BL - REQ"
+  },
+  {
+    "date": "Thursday - 30 April 2026",
+    "ref": "SJA/1013502",
+    "eventName": "NEHM - Hull Kingston Rovers v Wakefield - NER109Sewell Group Craven Park, Poorhouse Lane, Hull HU9 5HE",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "22:00",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "5",
+      "AFA": "0",
+      "ER": "5",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "NEHM - Hull Kingston Rovers v Wakefield - NER109Sewell Group Craven Park, Poorhouse Lane, Hull HU9 5HE - REQ"
+  },
+  {
+    "date": "Thursday - 30 April 2026",
+    "ref": "SJA/1020976",
+    "eventName": "SJA Sunderland Cadets Ambulance AwarenessSt John Ambulance, Unit 30A, Business & Innovation Centre, Wearfie.. SR5 2TA",
+    "location": "REQ",
+    "start": "18:00",
+    "finish": "21:30",
+    "resources": {
+      "CDT": "0",
+      "FA": "0",
+      "CFA": "0",
+      "AFA": "0",
+      "ER": "0",
+      "CREW": "0",
+      "HCP": "0",
+      "FATC": "0",
+      "AMB": "0"
+    },
+    "details": "SJA Sunderland Cadets Ambulance AwarenessSt John Ambulance, Unit 30A, Business & Innovation Centre, Wearfie.. SR5 2TA - REQ"
+  }
+]

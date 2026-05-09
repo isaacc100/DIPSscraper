@@ -23,11 +23,16 @@
 				const eventData = {
 					date: currentDate,
 					ref: cells[0].textContent.trim(),
-					details: (cells[1]?.textContent || "").trim().replace(/\s+/g, " "),
+					eventName: (cells[1]?.textContent || "").trim().replace(/\s+/g, " "),
+					location: (cells[2]?.textContent || "").trim().replace(/\s+/g, " "),
 					start: (cells[3]?.textContent || "").trim(),
 					finish: (cells[4]?.textContent || "").trim(),
 					resources: {}
 				};
+
+				eventData.details = [eventData.eventName, eventData.location]
+					.filter(Boolean)
+					.join(" - ");
 
 				RESOURCE_NAMES.forEach((name, index) => {
 					const cellIndex = 5 + index;
